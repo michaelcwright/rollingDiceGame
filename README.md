@@ -1,8 +1,8 @@
-rollingDiceGame
+Roll the dice game
 ===============
 
 Guide
-==
+=
 
 1.roll_noMoney.php => game with no money betting
 
